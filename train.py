@@ -9,7 +9,6 @@ import argparse
 import warnings
 
 
-
 def get_arguments():
     """Parse and return command-line arguments."""
     parser = argparse.ArgumentParser(description="GPT")
