@@ -1,3 +1,4 @@
 # GPT2
-![GPT2](https://github.com/user-attachments/assets/a3c0d733-18cf-442f-86e4-9ca7373d842f)
+![GPT2 (1)](https://github.com/user-attachments/assets/b365a498-7bf6-45e9-803c-67dd8f8e8d24)
+
 
