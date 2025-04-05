@@ -67,38 +67,65 @@ Max was so happy that he could play with his friends without pain. He learned th
 ## Dataset Analysis
 
 Number of characters in train part:  **1.902088781 Billion characters**
+
 Number of tokens in train part:  **439.039906 Million tokens**
+
 Number of unique tokens in train part:  **63577 tokens**
+
 On average, there are **897 characters** in **each story**.
+
 On average, there are **207 tokens** in **each story**.
+
 The most common token is **'.'** with **36.459483 million occurrences**.
+
 The **mean** token repetition count is **6905**.
+
 The **standard deviation** of token repetition is **226804**.
+
 The **minimum** token repetition count is **1**.
+
 The **25th** percentile of token repetition is **1**.
+
 The **median** token repetition count is **3**.
+
 The **75th** percentile of token repetition is **24**.
+
 The **maximum** token repetition count is **36459483**.
 
 📊 Text Dataset Statistics
+
 --------------------------------------------------
+
 • Characters: 1.90 Billion
+
 • Tokens: 439.04 Million
+
 • Unique Tokens: 63,577
 
 📝 Per-Story Averages:
+
   → Characters: 897
+  
   → Tokens: 207
 
 🏆 Most Frequent Token:
+
   → '.' (36.46 million occurrences)
 
 📈 Token Repetition Statistics:
+
   → Mean: 6905
+  
   → Std Dev: 226,804
+  
   → Min: 1
+  
   → 25th Percentile: 1
+  
   → Median: 3
+  
   → 75th Percentile: 24
+  
   → Max: 36,459,483
+  
 --------------------------------------------------
