@@ -158,7 +158,8 @@ The **maximum** token repetition count is **36459483**.
 **📊 Statistical Analysis of Token Distribution**
 
 **1. Skewness (100.6)**
-Interpretation: Extremely right-skewed distribution
+
+* Interpretation: Extremely right-skewed distribution
 
 Indicates:
 ✓ Vast majority of tokens have low frequency
