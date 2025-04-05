@@ -160,7 +160,7 @@ The **maximum** token repetition count is **36459483**.
 
 **📊 Statistical Analysis of Token Distribution**
 
-**1. Skewness (100.6):**
+**1. Skewness (100.6):Statistical Analysis of Token Distribution**
 
 * Interpretation: Extremely right-skewed distribution
 
@@ -172,7 +172,7 @@ The **maximum** token repetition count is **36459483**.
 
   * Typical in natural language (few common words, many rare words)
 
-**2. Kurtosis (13,057.8):**
+**2. Kurtosis (13,057.8):Statistical Analysis of Token Distribution**
 
 * Interpretation: Leptokurtic distribution with heavy tails
 
@@ -184,7 +184,7 @@ The **maximum** token repetition count is **36459483**.
    
   * Much more peaked than normal distribution
 
-**3. Gini Coefficient (0.99):**
+**3. Gini Coefficient (0.99):Statistical Analysis of Token Distribution**
 
 * Interpretation: Extreme inequality in token frequency
 
@@ -196,7 +196,7 @@ The **maximum** token repetition count is **36459483**.
    
   * Typical range for text data: 0.7-0.99
 
-**4. Jarque-Bera Test (p=0.0):**
+**4. Jarque-Bera Test (p=0.0):Statistical Analysis of Token Distribution**
 
 * Interpretation: Absolutely non-normal distribution
 
@@ -206,7 +206,7 @@ The **maximum** token repetition count is **36459483**.
    
   * Requires non-parametric analysis methods
 
-**5. Hapax Legomena (19,834):**
+**5. Hapax Legomena (19,834):Token Distribution Statistical Analysis**
 
 * Interpretation: Very high count of rare words
 
@@ -218,7 +218,7 @@ The **maximum** token repetition count is **36459483**.
     
   * May need removal or grouping
 
-**6. Dis Legomena (9,131):**
+**6. Dis Legomena (9,131):Token Distribution Statistical Analysis**
 
 * Interpretation: Words with minimal repetition
 
@@ -230,7 +230,7 @@ The **maximum** token repetition count is **36459483**.
     
   * May require special modeling
 
-**7. High-Frequency Tokens (>100 Occurrences: 10,259):**
+**7. High-Frequency Tokens (>100 Occurrences: 10,259):Token Distribution Statistical Analysis**
 
 * Interpretation: Very common words
 
@@ -242,7 +242,7 @@ The **maximum** token repetition count is **36459483**.
     
   * Foundation for statistical analysis
  
-**8. Top 10% Threshold (508.4):**
+**8. Top 10% Threshold (508.4):Token Distribution Statistical Analysis**
 
 * Interpretation: Boundary between frequent/rare tokens
 
@@ -254,7 +254,7 @@ The **maximum** token repetition count is **36459483**.
     
   * Optimal cutoff point for vocabulary pruning
 
-**9. Interquartile Range (IQR: 23.0):**
+**9. Interquartile Range (IQR: 23.0):Token Spread Analysis**
 
 * Interpretation: Middle 50% token spread
 
@@ -266,7 +266,7 @@ The **maximum** token repetition count is **36459483**.
     
   * Most tokens appear very rarely
  
-**10. Distribution Deciles:**
+**10. Distribution Deciles:Token Spread Analysis**
 
 * Interpretation: Frequency cut points
 
@@ -280,7 +280,7 @@ The **maximum** token repetition count is **36459483**.
     
   * 10th decile: 508.4 occurrences (top 10%)
  
-**11. Top/Bottom 1% Ratio (62,408.16):**
+**11. Top/Bottom 1% Ratio (62,408.16):Token Spread Analysis**
 
 * Interpretation: Extreme frequency gap
 
@@ -292,7 +292,7 @@ The **maximum** token repetition count is **36459483**.
   
   * Requires specialized processing approaches
  
-**12. Top 10% Tokens Share (99.68%):**
+**12. Top 10% Tokens Share (99.68%):Token Concentration Analysis**
 
 * Interpretation: Extreme concentration in few tokens
 
@@ -304,7 +304,7 @@ The **maximum** token repetition count is **36459483**.
   
   * Matches real-world language systems (Zipf's law)
 
-**13. Top 100 Tokens Share (66.09%):**
+**13. Top 100 Tokens Share (66.09%):Token Concentration Analysis**
 
 * Interpretation: Dominance of high-frequency tokens
 
@@ -316,7 +316,7 @@ The **maximum** token repetition count is **36459483**.
     
   * Stop word removal may be necessary
  
-**14. Herfindahl Index (0.017):**
+**14. Herfindahl Index (0.017):Token Concentration Analysis**
 
 * Interpretation: Moderate vocabulary concentration
 
@@ -328,7 +328,7 @@ The **maximum** token repetition count is **36459483**.
     
   * Suggests several ultra-frequent tokens
  
-**15. Normality Test (p=0.0000):**
+**15. Normality Test (p=0.0000):Token Distribution Metrics Analysis**
 
 * Interpretation: Non-normal distribution
   
