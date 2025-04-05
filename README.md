@@ -64,6 +64,8 @@ Max was so happy that he could play with his friends without pain. He learned th
 
 **the simple structure, making it ideal for small models.**
 
+<details>
+    
 ## Dataset Analysis
 
 Number of characters in train part:  **1.902088781 Billion characters**
@@ -373,3 +375,4 @@ The **maximum** token repetition count is **36459483**.
       * Top 100 tokens ≈ 67% of total frequency
         
       * Less extreme dominance than α<1.2
+</details>
