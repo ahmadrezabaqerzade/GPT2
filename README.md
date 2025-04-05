@@ -352,3 +352,24 @@ The **maximum** token repetition count is **36459483**.
     * 2.Pareto Rejection → Your tails are heavier than standard Pareto.
 
       * Implies extreme token dominance (e.g., top 0.1% tokens control >90% frequency)
+
+![token-rank](https://github.com/user-attachments/assets/185fa5ef-e6f5-46cf-bc58-09479be5f1ee)
+
+
+**📊 Power Law Analysis: α=1.34:**
+
+* 1. Coefficient Interpretation
+     
+  * α=1.34 indicates:
+
+    * Typical range for natural language: 1.0 < α < 2.0
+      
+    * Your value (1.34): Balanced but slightly more diverse than English (α≈1.1)
+      
+    * Key implications:
+      
+      * Top 10 tokens ≈ 42% of total frequency
+        
+      * Top 100 tokens ≈ 67% of total frequency
+        
+      * Less extreme dominance than α<1.2
