@@ -53,7 +53,7 @@ The TinyStories dataset is a synthetic, simplified text corpus designed for trai
 **Example TinyStories Text**:
 
 <details>
-<summary>📖 **The Story of Max the Clever Dog**</summary>
+<summary>📖 The Story of Max the Clever Dog </summary>
     
 >Once upon a time, there was a clever little dog named Max. Max loved to run and play with his friends in the park. One day, Max was running very fast when he fell and hurt his knee.
 Max went to his friend, the wise old owl, and said, "Owl, my knee hurts. What can I do?" The owl thought for a moment and said, "Max, you should test your knee. Try to walk slowly and see if it still hurts."
@@ -66,7 +66,7 @@ Max was so happy that he could play with his friends without pain. He learned th
 
 <details>
 
- <summary>  **📊 Dataset Analysis** </summary>
+ <summary>  📊 Dataset Analysis </summary>
 
 Number of characters in train part:  **1.902088781 Billion characters**
 
