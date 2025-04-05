@@ -203,3 +203,50 @@ The **maximum** token repetition count is **36459483**.
    
   * Requires non-parametric analysis methods
 
+**5. Hapax Legomena (19,834):**
+
+* Interpretation: Very high count of rare words
+
+* Indicates:
+  
+  * Approximately 19,834 words appear only once
+    
+  * Common characteristic in natural language data
+    
+  * May need removal or grouping
+
+**6. Dis Legomena (9,131):**
+
+* Interpretation: Words with minimal repetition
+
+* Shows:
+  
+  * 9,131 words appear exactly twice
+    
+  * Typically includes technical terms or names
+    
+  * May require special modeling
+
+**7. High-Frequency Tokens (>100 Occurrences: 10,259):**
+
+* Interpretation: Very common words
+
+* Means:
+  
+  * 10,259 words with 100+ occurrences
+    
+  * Likely contains stop words
+    
+  * Foundation for statistical analysis
+ 
+**8. Top 10% Threshold (508.4):**
+
+* Interpretation: Boundary between frequent/rare tokens
+
+* Significance:
+  
+  * Minimum frequency to be in top 10%
+    
+  * Useful for identifying key terms
+    
+  * Optimal cutoff point for vocabulary pruning
