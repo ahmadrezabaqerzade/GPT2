@@ -162,12 +162,12 @@ The **maximum** token repetition count is **36459483**.
 * Interpretation: Extremely right-skewed distribution
 
 * Indicates:
-* 
- *✓ Vast majority of tokens have low frequency
-  
-*✓ A handful of tokens appear extremely frequently
 
-*✓ Typical in natural language (few common words, many rare words)
+ * ✓ Vast majority of tokens have low frequency
+  
+ * ✓ A handful of tokens appear extremely frequently
+
+ * ✓ Typical in natural language (few common words, many rare words)
 
 2. Kurtosis (13,057.8)
 Interpretation: Leptokurtic distribution with heavy tails
