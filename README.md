@@ -52,6 +52,11 @@ The TinyStories dataset is a synthetic, simplified text corpus designed for trai
 
 **Example TinyStories Text**:
 
+<details>
+<summary>📖 Read the story of Milo the Cat</summary>
+    
 '''Once there was a little cat named Milo. Milo liked to play in the garden. One day, he saw a butterfly and chased it. The butterfly flew away, but Milo had fun.'''
+
+</details>
 
 **the simple structure, making it ideal for small models.**
