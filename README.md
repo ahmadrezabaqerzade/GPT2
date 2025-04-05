@@ -144,3 +144,47 @@ The **maximum** token repetition count is **36459483**.
 | he  | 7,977,807  |
 | she  | 7,710,551  |
 | it  | 7,104,640  |
+
+![top10token](https://github.com/user-attachments/assets/26ae4c4f-42e1-4a97-99f7-4cdf443df572)
+
+**Token Frequency Distribution:**
+
+![token-freq-dist](https://github.com/user-attachments/assets/28c9d932-3562-45e2-8d79-2679ff4dede0)
+
+**Token Frequency Distribution(BoxPlot):**
+
+![boxplot-dist](https://github.com/user-attachments/assets/a8864717-ff62-4b64-9b57-2d20410264bd)
+
+**📊 Statistical Analysis of Token Distribution**
+
+**1. Skewness (100.6)**
+Interpretation: Extremely right-skewed distribution
+
+Indicates:
+✓ Vast majority of tokens have low frequency
+✓ A handful of tokens appear extremely frequently
+✓ Typical in natural language (few common words, many rare words)
+
+2. Kurtosis (13,057.8)
+Interpretation: Leptokurtic distribution with heavy tails
+
+Shows:
+✓ Sharp peak at lower frequencies
+✓ Extreme outliers in higher frequencies
+✓ Much more peaked than normal distribution
+
+3. Gini Coefficient (0.99)
+Interpretation: Extreme inequality in token frequency
+
+Means:
+✓ Nearly all frequency concentrated in very few tokens
+✓ Similar to wealth distribution in unequal economies
+✓ Typical range for text data: 0.7-0.99
+
+4. Jarque-Bera Test (p=0.0)
+Interpretation: Absolutely non-normal distribution
+
+Significance:
+✓ Rejects normality hypothesis with 100% confidence
+✓ Requires non-parametric analysis methods
+
