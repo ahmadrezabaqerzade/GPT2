@@ -67,7 +67,7 @@ Max was so happy that he could play with his friends without pain. He learned th
 ## 📊 Dataset Analysis
 <details>
 
-<summary>  📊 Dataset Analysis </summary>
+<summary>  📊 </summary>
 
 Number of characters in train part:  **1.902088781 Billion characters**
 
