@@ -157,7 +157,7 @@ The **maximum** token repetition count is **36459483**.
 
 **📊 Statistical Analysis of Token Distribution**
 
-**1. Skewness (100.6)**
+**1. Skewness (100.6):**
 
 * Interpretation: Extremely right-skewed distribution
 
@@ -169,26 +169,37 @@ The **maximum** token repetition count is **36459483**.
 
   * Typical in natural language (few common words, many rare words)
 
-2. Kurtosis (13,057.8)
-Interpretation: Leptokurtic distribution with heavy tails
+**2. Kurtosis (13,057.8):**
 
-Shows:
-✓ Sharp peak at lower frequencies
-✓ Extreme outliers in higher frequencies
-✓ Much more peaked than normal distribution
+* Interpretation: Leptokurtic distribution with heavy tails
 
-3. Gini Coefficient (0.99)
-Interpretation: Extreme inequality in token frequency
+* Shows:
+  
+ * Sharp peak at lower frequencies
 
-Means:
-✓ Nearly all frequency concentrated in very few tokens
-✓ Similar to wealth distribution in unequal economies
-✓ Typical range for text data: 0.7-0.99
+ * Extreme outliers in higher frequencies
+   
+ * Much more peaked than normal distribution
 
-4. Jarque-Bera Test (p=0.0)
-Interpretation: Absolutely non-normal distribution
+**3. Gini Coefficient (0.99):**
 
-Significance:
-✓ Rejects normality hypothesis with 100% confidence
-✓ Requires non-parametric analysis methods
+* Interpretation: Extreme inequality in token frequency
+
+* Means:
+  
+ * Nearly all frequency concentrated in very few tokens
+   
+ * Similar to wealth distribution in unequal economies
+   
+ * Typical range for text data: 0.7-0.99
+
+**4. Jarque-Bera Test (p=0.0):**
+
+* Interpretation: Absolutely non-normal distribution
+
+* Significance:
+
+ * Rejects normality hypothesis with 100% confidence
+   
+ * Requires non-parametric analysis methods
 
