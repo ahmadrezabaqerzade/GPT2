@@ -175,11 +175,11 @@ The **maximum** token repetition count is **36459483**.
 
 * Shows:
   
- * Sharp peak at lower frequencies
+  * Sharp peak at lower frequencies
 
- * Extreme outliers in higher frequencies
+  * Extreme outliers in higher frequencies
    
- * Much more peaked than normal distribution
+  * Much more peaked than normal distribution
 
 **3. Gini Coefficient (0.99):**
 
@@ -187,11 +187,11 @@ The **maximum** token repetition count is **36459483**.
 
 * Means:
   
- * Nearly all frequency concentrated in very few tokens
+  * Nearly all frequency concentrated in very few tokens
    
- * Similar to wealth distribution in unequal economies
+  * Similar to wealth distribution in unequal economies
    
- * Typical range for text data: 0.7-0.99
+  * Typical range for text data: 0.7-0.99
 
 **4. Jarque-Bera Test (p=0.0):**
 
@@ -199,7 +199,7 @@ The **maximum** token repetition count is **36459483**.
 
 * Significance:
 
- * Rejects normality hypothesis with 100% confidence
+  * Rejects normality hypothesis with 100% confidence
    
- * Requires non-parametric analysis methods
+  * Requires non-parametric analysis methods
 
