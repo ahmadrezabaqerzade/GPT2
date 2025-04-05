@@ -2,8 +2,7 @@
     <img src="https://github.com/user-attachments/assets/c9771160-380c-441f-baf2-cb8845eb6072" alt="Logo" width="" height="200">
   </a>
 
-<h1 align="center"></h1>
-</div>
+
 
 # GPT-2: Overview
 GPT-2 (Generative Pre-trained Transformer 2) is a large language model developed by OpenAI in 2019. It is the successor to GPT-1 and is based on the Transformer architecture (specifically the decoder-only variant). GPT-2 was notable for its ability to generate coherent and contextually relevant text, making it a breakthrough in natural language processing (NLP).
