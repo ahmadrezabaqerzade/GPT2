@@ -31,3 +31,26 @@ GPT-2 (Generative Pre-trained Transformer 2) is a large language model developed
   * Uses **masked self-attention** (causal attention) to prevent looking ahead in the sequence.
 
   * Trained using **next-word prediction** (autoregressive modeling).
+
+# Dataset
+## TinyStories Dataset
+The TinyStories dataset is a synthetic, simplified text corpus designed for training and evaluating small language models. It was introduced to help researchers experiment with lightweight models that can still generate meaningful text.
+
+**Key Features of TinyStories**:
+ * **Simple Language**: Contains short stories with basic vocabulary and grammar, making it easier for small models to learn.
+
+ * **Focused on Coherence**: Designed to test whether small models can maintain narrative consistency (unlike random text generation).
+
+ * **Use Case**: Helps in studying how small transformers (1M–100M parameters) perform compared to large models like GPT-2.
+
+**Why TinyStories?**
+ * Large models like GPT-2 require massive computational resources.
+
+ * TinyStories allows testing **fundamental language understanding** without needing huge models.
+
+ * Useful for **educational and research purposes** in low-resource settings.
+
+**Example TinyStories Text**:
+"Once there was a little cat named Milo. Milo liked to play in the garden. One day, he saw a butterfly and chased it. The butterfly flew away, but Milo had fun."
+
+**the simple structure, making it ideal for small models.**
