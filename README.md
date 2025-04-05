@@ -53,9 +53,15 @@ The TinyStories dataset is a synthetic, simplified text corpus designed for trai
 **Example TinyStories Text**:
 
 <details>
-<summary>📖 Read the story of Milo the Cat</summary>
+<summary>📖 **The Story of Max the Clever Dog**</summary>
     
->Once there was a little cat named Milo. Milo liked to play in the garden. One day, he saw a butterfly and chased it. The butterfly flew away, but Milo had fun.
+>Once upon a time, there was a clever little dog named Max. Max loved to run and play with his friends in the park. One day, Max was running very fast when he fell and hurt his knee.
+
+Max went to his friend, the wise old owl, and said, "Owl, my knee hurts. What can I do?" The owl thought for a moment and said, "Max, you should test your knee. Try to walk slowly and see if it still hurts."
+
+So Max tested his knee by walking slowly. At first, it hurt a little, but soon Max felt better. He said, "Thank you, Owl, for your help. Now I can play with my friends again."
+
+Max was so happy that he could play with his friends without pain. He learned that sometimes, it was good to slow down and listen to his body. And Max and his friends played happily in the park ever after.
 
 </details>
 
