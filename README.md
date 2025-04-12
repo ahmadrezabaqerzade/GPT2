@@ -33,7 +33,7 @@ GPT-2 (Generative Pre-trained Transformer 2) is a large language model developed
   * Trained using **next-word prediction** (autoregressive modeling).
 
 # Dataset
-## TinyStories Dataset
+## [TinyStories Dataset](https://huggingface.co/datasets/roneneldan/TinyStories)
 The TinyStories dataset is a synthetic, simplified text corpus designed for training and evaluating small language models. It was introduced to help researchers experiment with lightweight models that can still generate meaningful text.
 
 **Key Features of TinyStories**:
